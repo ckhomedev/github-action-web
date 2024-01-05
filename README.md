@@ -1,1 +1,1 @@
-This is a test repo to practice git and github operations.  
+This is a test repo to review git and github operations.  
